@@ -1,7 +1,11 @@
 module Main exposing (main)
 
 import Browser
-import Html exposing (h1, text)
+import Html exposing (div, h1, text)
+import Html.Attributes exposing (class)
+
 
 main =
-  h1 [] [ text "Hello, Jelm!" ]
+    div [ class "container" ]
+        [ h1 [] [ text "Hello, jelm!" ]
+        ]
