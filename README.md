@@ -1,1 +1,1 @@
-## jelm - a JAMstack inspired elm static site generator
+## jelm - a Jamstack inspired elm boilerplate using parcel
